@@ -22,6 +22,11 @@ Este proyecto toma el dataset **Credit Card Default** (Kaggle) y realiza:
 
 ---
 
+## Dashboard en Streamlit
+[Dashboard en Streamlit](https://xwdjziwwc6pg2jexkpw9rf.streamlit.app/)
+
+---
+
 ## Instrucciones para uso local
 
 1. Clona el repositorio.
